@@ -1,2 +1,0 @@
-api_key_nyt = Eh0MD11J4bhJWc2POxABeM3RkcGHhArz
-api_key_openw = cf61bd6b192c9395fb261fcec8bbea31
