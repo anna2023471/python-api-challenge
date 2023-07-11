@@ -4,6 +4,7 @@ Module 6 Challenge
 The submission contains:
 
 WeatherPy.ipynb
+
 VacationPy.ipynb
 
 .gitignore file
